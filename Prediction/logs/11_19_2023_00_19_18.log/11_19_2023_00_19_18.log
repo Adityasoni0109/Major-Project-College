@@ -1,0 +1,21 @@
+[ 2023-11-19 00:19:19,001 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-11-19 00:19:19,004 ] 224 werkzeug - INFO -  * Debugger PIN: 106-376-631
+[ 2023-11-19 00:20:03,683 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:20:03] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:20:03,712 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:20:03] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:20:27,286 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:20:27] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:20:27,297 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:20:27] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:22:51,765 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:22:51] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:22:51,776 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:22:51] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:23:58,230 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:23:58] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:32:28,161 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:32:28] "GET / HTTP/1.1" 200 -
+[ 2023-11-19 00:32:28,181 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:32:28] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:32:57,342 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:32:57] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:32:57,354 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:32:57] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:35:20,820 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:35:20] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:35:20,831 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:35:20] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:37:52,630 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:37:52] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:37:52,640 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:37:52] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:38:44,671 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:38:44] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:38:44,679 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:38:44] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-11-19 00:42:03,502 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:42:03] "POST /predictdata HTTP/1.1" 200 -
+[ 2023-11-19 00:42:03,511 ] 224 werkzeug - INFO - 127.0.0.1 - - [19/Nov/2023 00:42:03] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -

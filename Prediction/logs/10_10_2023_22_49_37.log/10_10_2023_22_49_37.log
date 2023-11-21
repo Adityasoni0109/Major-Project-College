@@ -1,0 +1,9 @@
+[ 2023-10-10 22:49:37,626 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-10 22:49:37,631 ] 224 werkzeug - INFO -  * Debugger PIN: 106-376-631
+[ 2023-10-10 22:50:13,903 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:50:13] "GET / HTTP/1.1" 200 -
+[ 2023-10-10 22:50:14,185 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:50:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+[ 2023-10-10 22:50:14,235 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:50:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-10-10 22:50:16,102 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:50:16] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-10-10 22:50:16,424 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:50:16] "[36mGET /static/css/styles_home.css HTTP/1.1[0m" 304 -
+[ 2023-10-10 22:51:27,990 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:51:27] "GET / HTTP/1.1" 200 -
+[ 2023-10-10 22:51:28,239 ] 224 werkzeug - INFO - 127.0.0.1 - - [10/Oct/2023 22:51:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
